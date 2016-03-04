@@ -31,3 +31,12 @@ mm.log
 
 # OSX-specific exclusions
 .[dD][sS]_[sS]tore
+
+# The Welkin Suite specific
+**/.localHistory
+
+*.sfuo
+
+TestCache.xml
+
+TestsResultsCache.xml
