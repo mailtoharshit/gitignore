@@ -29,6 +29,11 @@ local.properties
 *.sublime-workspace
 mm.log
 
+# Haoide SublimeText
+.config
+.deploy
+.history
+
 # OSX-specific exclusions
 .[dD][sS]_[sS]tore
 
