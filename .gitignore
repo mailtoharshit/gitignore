@@ -23,6 +23,12 @@ local.properties
 .classpath
 *.cache
 
+# Illuminated Cloud (IntelliJ IDEA)
+IlluminatedCloud
+out
+.idea
+*.iml
+
 # Mavensmate
 *.sublime-project
 *.sublime-settings
